@@ -1,0 +1,70 @@
+#mkt-aplus {
+  section[class='mkt-standard-tech-specs'] {
+    .tech-specs-item {
+      display: flex;
+      padding: 8px;
+      border-bottom: 1px solid #bbbfbf;
+      border-left: 1px solid #bbbfbf;
+      border-right: 1px solid #bbbfbf;
+      .mkt-standard-text-block {
+        margin-bottom: 0;
+      }
+      & > div:nth-of-type(1) {
+        flex-basis: 100px;
+        display: flex;
+        align-items: center;
+      }
+      & > div:nth-of-type(2) {
+        flex: 1;
+        display: flex;
+        align-items: center;
+      }
+    }
+  }
+  &.pc {
+    section[class='mkt-standard-tech-specs'] {
+      .tech-specs-wrap {
+        display: grid;
+        column-gap: 24px;
+        &.two-columns {
+          grid-template-columns: repeat(2, 1fr);
+          .tech-specs-item {
+            &:nth-of-type(1),
+            &:nth-of-type(2) {
+              border-top: 1px solid #bbbfbf;
+            }
+
+            &:nth-of-type(4n - 2),
+            &:nth-of-type(4n - 3) {
+              background-color: #f0f2f2;
+            }
+          }
+        }
+        &.one-columns {
+          .tech-specs-item {
+            &:nth-of-type(1) {
+              border-top: 1px solid #bbbfbf;
+            }
+            &:nth-of-type(2n-1) {
+              background-color: #f0f2f2;
+            }
+          }
+        }
+      }
+    }
+  }
+  &.mobile {
+    section[class='mkt-standard-tech-specs'] {
+      .tech-specs-item {
+        border-left: unset;
+        border-right: unset;
+        &:nth-of-type(1) {
+          border-top: 1px solid #bbbfbf;
+        }
+        & > div {
+          flex: 1;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+#mkt-aplus {
+  &.mobile {
+    section[class='mkt-standard-multiple-image-text'] {
+      .small-image {
+        display: none;
+      }
+    }
+  }
+  &.pc {
+    section[class='mkt-standard-multiple-image-text'] {
+      .big-container {
+        .big-item {
+          display: grid;
+          grid-template-columns: 300px 1fr;
+          margin-bottom: 12px;
+          gap: 12px;
+          img {
+            width: 100%;
+          }
+        }
+      }
+      .small-image {
+        margin-top: 12px;
+        display: flex;
+        column-gap: 12px;
+        display: none;
+        .active img {
+          box-sizing: border-box;
+          opacity: 1;
+        }
+        & > div {
+          width: 80px;
+          cursor: pointer;
+          .mkt-standard-text-block {
+            text-align: center;
+          }
+          img {
+            width: 100% !important;
+            box-sizing: border-box;
+            border: 1px solid #888888;
+            opacity: 0.3;
+          }
+        }
+      }
+    }
+  }
+
+  section[class='mkt-standard-multiple-image-text'] {
+  }
+}

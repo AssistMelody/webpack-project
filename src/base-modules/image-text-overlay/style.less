@@ -1,0 +1,37 @@
+#mkt-aplus {
+  &.pc {
+    section[class='mkt-standard-image-text-overlay'] {
+      position: relative;
+      .DARK {
+        .image-text-container {
+          background-color: rgba(0, 0, 0, 0.5);
+          color: #fff;
+        }
+      }
+      .LIGHT {
+        .image-text-container {
+          background-color: rgba(255, 255, 255, 0.7);
+          color: #000;
+        }
+      }
+      .image-text-container {
+        position: absolute;
+        right: 0;
+        top: 50%;
+        width: 40%;
+        padding: 16px;
+        transform: translateY(-50%);
+      }
+      img {
+        width: 100%;
+      }
+    }
+  }
+  &.mobile {
+    section[class='mkt-standard-image-text-overlay'] {
+      img {
+        width: 100%;
+      }
+    }
+  }
+}

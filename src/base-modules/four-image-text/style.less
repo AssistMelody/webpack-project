@@ -1,0 +1,23 @@
+#mkt-aplus {
+  &.mobile {
+    section[class='mkt-standard-four-image-text'] {
+      .image-text-layer img {
+        width: 100%;
+      }
+    }
+  }
+  &.pc {
+    section[class='mkt-standard-four-image-text'] {
+      .image-text-layer {
+        display: flex;
+        column-gap: 24px;
+        & > div {
+          flex: 1;
+        }
+        img {
+          width: 100%;
+        }
+      }
+    }
+  }
+}

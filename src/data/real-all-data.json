@@ -1,0 +1,1855 @@
+{
+  "contentReferenceKey": "38e2d93f-8c57-423b-9ee4-504f41a1e870",
+  "contentMetadata": {
+    "name": "MR bimini with pole with vest",
+    "marketplaceId": "ATVPDKIKX0DER",
+    "status": "APPROVED",
+    "badgeSet": [
+      "GENERATED",
+      "STANDARD"
+    ],
+    "updateTime": {
+      "offset": {
+        "totalSeconds": 0,
+        "id": "Z",
+        "rules": {
+          "transitions": [],
+          "transitionRules": [],
+          "fixedOffset": true
+        }
+      },
+      "dayOfYear": 83,
+      "dayOfWeek": "FRIDAY",
+      "month": "MARCH",
+      "dayOfMonth": 24,
+      "year": 2023,
+      "monthValue": 3,
+      "nano": 512000000,
+      "hour": 18,
+      "minute": 47,
+      "second": 57
+    }
+  },
+  "contentDocument": {
+    "name": "MR bimini with pole with vest",
+    "contentType": "EBC",
+    "contentSubType": null,
+    "locale": "he-IL",
+    "contentModuleList": [
+      {
+        "contentModuleType": "COMPANY_LOGO",
+        "standardCompanyLogo": {
+          "companyLogo": {
+            "uploadDestinationId": "aplus-media-library-service-media/f0af2370-01db-4a4c-b243-acfebdc0450a.jpg",
+            "imageCropSpecification": {
+              "size": {
+                "width": {
+                  "value": 600,
+                  "units": "pixels"
+                },
+                "height": {
+                  "value": 180,
+                  "units": "pixels"
+                }
+              },
+              "offset": {
+                "x": {
+                  "value": 0,
+                  "units": "pixels"
+                },
+                "y": {
+                  "value": 0,
+                  "units": "pixels"
+                }
+              }
+            },
+            "altText": "לוגו המותג XGEAR"
+          }
+        },
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": null,
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      },
+      {
+        "contentModuleType": "IMAGE_TEXT_OVERLAY",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": {
+          "overlayColorType": "DARK",
+          "block": {
+            "image": {
+              "uploadDestinationId": "aplus-media/sc/2e490f08-6141-49f1-a322-4f35c6ea4f9d.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": {
+                    "value": 970,
+                    "units": "pixels"
+                  },
+                  "height": {
+                    "value": 300,
+                    "units": "pixels"
+                  }
+                },
+                "offset": {
+                  "x": {
+                    "value": 0,
+                    "units": "pixels"
+                  },
+                  "y": {
+                    "value": 0,
+                    "units": "pixels"
+                  }
+                }
+              },
+              "altText": "1"
+            },
+            "headline": null,
+            "body": null
+          }
+        },
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": null,
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      },
+      {
+        "contentModuleType": "SINGLE_SIDE_IMAGE",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": {
+          "imagePositionType": "LEFT",
+          "block": {
+            "image": {
+              "uploadDestinationId": "aplus-media/sc/ee2d3d05-47f9-4046-ab70-320314b9744f.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": {
+                    "value": 300,
+                    "units": "pixels"
+                  },
+                  "height": {
+                    "value": 300,
+                    "units": "pixels"
+                  }
+                },
+                "offset": {
+                  "x": {
+                    "value": 0,
+                    "units": "pixels"
+                  },
+                  "y": {
+                    "value": 0,
+                    "units": "pixels"
+                  }
+                }
+              },
+              "altText": "1"
+            },
+            "headline": {
+              "value": "חלק עליון Bimini עם מוטות תמיכה אחוריים",
+              "decoratorSet": []
+            },
+            "body": {
+              "textList": [
+                {
+                  "value": "עשוי מבד 600D צבוע בתמיסה לאורך זמן עם ציפוי PU כפול, יציבות צבע גבוהה של 200 שעות מספקת הגנה מקסימלית מפני מזג אוויר ונזק מפני UV מזיק, גשם, שמש, לכלוך. הבחירה המעולה עבור יישומים כדי להציע צל. תפירה כפולה חופפת. 2 מוטות תמיכה אחוריים מאחור, 2 רצועות ניילון מתכווננות בחזית, מה שמבטיח קיפול מהיר, חיסכון במקום ונוח מאוד לשימוש הבא. מסגרת אלומיניום עמידה במיוחד בקוטר 2.5 ס\"מ נגד חלודה עם רגלי קשת ראשיות כפולות לחוזק מקסימלי. מגף אחסון עם רוכסן מתואם בצבע כלול, ניתן לגלגל את הבד לתוך המגף לאחסון קל. כולל הוראות הרכבה מקצועיות וסט שלם של אביזרי הרכבה עמידים מפלדת אל-חלד קל להתקנה להתקנה קל להתקנה תוך דקות ספורות!",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          }
+        },
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      },
+      {
+        "contentModuleType": "THREE_IMAGE_TEXT",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": null,
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": {
+          "headline": null,
+          "block1": {
+            "image": {
+              "uploadDestinationId": "aplus-media/sc/ab90aa9a-6982-4d71-a6b6-ebd600ad12bf.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": {
+                    "value": 300,
+                    "units": "pixels"
+                  },
+                  "height": {
+                    "value": 300,
+                    "units": "pixels"
+                  }
+                },
+                "offset": {
+                  "x": {
+                    "value": 0,
+                    "units": "pixels"
+                  },
+                  "y": {
+                    "value": 0,
+                    "units": "pixels"
+                  }
+                }
+              },
+              "altText": "1"
+            },
+            "headline": null,
+            "body": null
+          },
+          "block2": {
+            "image": {
+              "uploadDestinationId": "aplus-media/sc/240645c9-0fc8-4a59-97ad-375443d498b1.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": {
+                    "value": 300,
+                    "units": "pixels"
+                  },
+                  "height": {
+                    "value": 300,
+                    "units": "pixels"
+                  }
+                },
+                "offset": {
+                  "x": {
+                    "value": 0,
+                    "units": "pixels"
+                  },
+                  "y": {
+                    "value": 0,
+                    "units": "pixels"
+                  }
+                }
+              },
+              "altText": "2"
+            },
+            "headline": null,
+            "body": null
+          },
+          "block3": {
+            "image": {
+              "uploadDestinationId": "aplus-media/sc/1fab1294-b787-41c9-a587-a6d5ae470189.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": {
+                    "value": 300,
+                    "units": "pixels"
+                  },
+                  "height": {
+                    "value": 300,
+                    "units": "pixels"
+                  }
+                },
+                "offset": {
+                  "x": {
+                    "value": 0,
+                    "units": "pixels"
+                  },
+                  "y": {
+                    "value": 0,
+                    "units": "pixels"
+                  }
+                }
+              },
+              "altText": "3"
+            },
+            "headline": null,
+            "body": null
+          }
+        }
+      },
+      {
+        "contentModuleType": "MULTIPLE_IMAGE_TEXT",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": {
+          "blocks": [
+            {
+              "block": {
+                "image": {
+                  "uploadDestinationId": "aplus-media/sc/2c4ff121-23a2-4877-bf31-ea0c7650dfc1.jpg",
+                  "imageCropSpecification": {
+                    "size": {
+                      "width": {
+                        "value": 300,
+                        "units": "pixels"
+                      },
+                      "height": {
+                        "value": 300,
+                        "units": "pixels"
+                      }
+                    },
+                    "offset": {
+                      "x": {
+                        "value": 0,
+                        "units": "pixels"
+                      },
+                      "y": {
+                        "value": 0,
+                        "units": "pixels"
+                      }
+                    }
+                  },
+                  "altText": "1"
+                },
+                "headline": {
+                  "value": "[מוטות תמיכה אחוריים ומגף אחסון עם רוכסן]",
+                  "decoratorSet": []
+                },
+                "body": {
+                  "textList": [
+                    {
+                      "value": "2 מוטות תמיכה אחוריים לגב המבטיחים קיפול מהיר, חיסכון במקום ונוח מאוד לשימוש בפעם הבאה. מגף אחסון עם רוכסן בצבע תואם כלול, ניתן לגלגל את הבד לתוך המגף כאשר אינו בשימוש.",
+                      "decoratorSet": []
+                    }
+                  ]
+                }
+              },
+              "caption": null
+            },
+            {
+              "block": {
+                "image": {
+                  "uploadDestinationId": "aplus-media/sc/a555fb2c-9f4e-41ab-a36f-64bd54a60a70.jpg",
+                  "imageCropSpecification": {
+                    "size": {
+                      "width": {
+                        "value": 1500,
+                        "units": "pixels"
+                      },
+                      "height": {
+                        "value": 1500,
+                        "units": "pixels"
+                      }
+                    },
+                    "offset": {
+                      "x": {
+                        "value": 0,
+                        "units": "pixels"
+                      },
+                      "y": {
+                        "value": 0,
+                        "units": "pixels"
+                      }
+                    }
+                  },
+                  "altText": "1"
+                },
+                "headline": {
+                  "value": "[חומר משודרג ואיכות עמידה]",
+                  "decoratorSet": []
+                },
+                "body": {
+                  "textList": [
+                    {
+                      "value": "עשוי מבד 600D צבוע בתמיסה לאורך זמן עם ציפוי PU כפול, יציבות צבע גבוהה של 200 שעות מספקת הגנה מקסימלית מפני מזג אוויר ונזקים. תפירה כפולה חופפת.",
+                      "decoratorSet": []
+                    }
+                  ]
+                }
+              },
+              "caption": null
+            },
+            {
+              "block": {
+                "image": {
+                  "uploadDestinationId": "aplus-media/sc/1c8d7ddc-e93b-4be8-bf2c-28839c2a1399.jpg",
+                  "imageCropSpecification": {
+                    "size": {
+                      "width": {
+                        "value": 1500,
+                        "units": "pixels"
+                      },
+                      "height": {
+                        "value": 1500,
+                        "units": "pixels"
+                      }
+                    },
+                    "offset": {
+                      "x": {
+                        "value": 0,
+                        "units": "pixels"
+                      },
+                      "y": {
+                        "value": 0,
+                        "units": "pixels"
+                      }
+                    }
+                  },
+                  "altText": "3"
+                },
+                "headline": {
+                  "value": "[מסגרת אלומיניום נגד חלודה]",
+                  "decoratorSet": []
+                },
+                "body": {
+                  "textList": [
+                    {
+                      "value": "מסגרת אלומיניום עמידה במיוחד בקוטר 2.5 ס\"מ נגד חלודה עם רגלי קשת ראשיות כפולות לחוזק מקסימלי.",
+                      "decoratorSet": []
+                    }
+                  ]
+                }
+              },
+              "caption": null
+            },
+            {
+              "block": {
+                "image": {
+                  "uploadDestinationId": "aplus-media/sc/ca0a86ad-06b4-484e-bb1f-6c4c97b9dd57.jpg",
+                  "imageCropSpecification": {
+                    "size": {
+                      "width": {
+                        "value": 300,
+                        "units": "pixels"
+                      },
+                      "height": {
+                        "value": 300,
+                        "units": "pixels"
+                      }
+                    },
+                    "offset": {
+                      "x": {
+                        "value": 0,
+                        "units": "pixels"
+                      },
+                      "y": {
+                        "value": 0,
+                        "units": "pixels"
+                      }
+                    }
+                  },
+                  "altText": "4"
+                },
+                "headline": {
+                  "value": "[חומרה מקצועית והוראות הרכבה]",
+                  "decoratorSet": []
+                },
+                "body": {
+                  "textList": [
+                    {
+                      "value": "כולל הוראות הרכבה מקצועיות וסט שלם של אביזרי הרכבה עמידים מפלדת אל-חלד להתקנה קלה. קל להתקנה תוך דקות ספורות!",
+                      "decoratorSet": []
+                    }
+                  ]
+                }
+              },
+              "caption": null
+            }
+          ]
+        },
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": null,
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      },
+      {
+        "contentModuleType": "COMPARISON_TABLE",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": {
+          "productColumns": [
+            {
+              "position": 1,
+              "image": {
+                "uploadDestinationId": "aplus-media-library-service-media/a37e7416-f591-4ab0-b582-baeff9285f60.jpg",
+                "imageCropSpecification": {
+                  "size": {
+                    "width": {
+                      "value": 491,
+                      "units": "pixels"
+                    },
+                    "height": {
+                      "value": 982,
+                      "units": "pixels"
+                    }
+                  },
+                  "offset": {
+                    "x": {
+                      "value": 0,
+                      "units": "pixels"
+                    },
+                    "y": {
+                      "value": 0,
+                      "units": "pixels"
+                    }
+                  }
+                },
+                "altText": "חגורת הצלה"
+              },
+              "title": "XGEAR חגורת הצלה",
+              "asin": "B07QP15CKZ",
+              "highlight": true,
+              "metrics": [
+                {
+                  "position": 1,
+                  "value": "שחור"
+                },
+                {
+                  "position": 2,
+                  "value": "M-L-XL-XXL-3XL-4XL"
+                },
+                {
+                  "position": 3,
+                  "value": "USCG סוג III"
+                },
+                {
+                  "position": 4,
+                  "value": "קצף ניילון/PVC"
+                }
+              ]
+            },
+            {
+              "position": 2,
+              "image": {
+                "uploadDestinationId": "aplus-media-library-service-media/a37e7416-f591-4ab0-b582-baeff9285f60.jpg",
+                "imageCropSpecification": {
+                  "size": {
+                    "width": {
+                      "value": 491,
+                      "units": "pixels"
+                    },
+                    "height": {
+                      "value": 982,
+                      "units": "pixels"
+                    }
+                  },
+                  "offset": {
+                    "x": {
+                      "value": 470,
+                      "units": "pixels"
+                    },
+                    "y": {
+                      "value": 0,
+                      "units": "pixels"
+                    }
+                  }
+                },
+                "altText": "חגורת הצלה"
+              },
+              "title": "XGEAR חגורת הצלה",
+              "asin": "B081Q2LLWC",
+              "highlight": false,
+              "metrics": [
+                {
+                  "position": 1,
+                  "value": "ליים"
+                },
+                {
+                  "position": 2,
+                  "value": "M-L-XL-XXL-3XL-4XL"
+                },
+                {
+                  "position": 3,
+                  "value": "USCG סוג III"
+                },
+                {
+                  "position": 4,
+                  "value": "קצף ניילון/PVC"
+                }
+              ]
+            },
+            {
+              "position": 3,
+              "image": {
+                "uploadDestinationId": "aplus-media-library-service-media/a37e7416-f591-4ab0-b582-baeff9285f60.jpg",
+                "imageCropSpecification": {
+                  "size": {
+                    "width": {
+                      "value": 491,
+                      "units": "pixels"
+                    },
+                    "height": {
+                      "value": 982,
+                      "units": "pixels"
+                    }
+                  },
+                  "offset": {
+                    "x": {
+                      "value": 962,
+                      "units": "pixels"
+                    },
+                    "y": {
+                      "value": 0,
+                      "units": "pixels"
+                    }
+                  }
+                },
+                "altText": "חגורת הצלה"
+              },
+              "title": "XGEAR חגורת הצלה",
+              "asin": "B081Q16X7X",
+              "highlight": true,
+              "metrics": [
+                {
+                  "position": 1,
+                  "value": "אדום"
+                },
+                {
+                  "position": 2,
+                  "value": "M-L-XL-XXL-3XL-4XL"
+                },
+                {
+                  "position": 3,
+                  "value": "USCG סוג III"
+                },
+                {
+                  "position": 4,
+                  "value": "קצף ניילון/PVC"
+                }
+              ]
+            },
+            {
+              "position": 4,
+              "image": {
+                "uploadDestinationId": "aplus-media-library-service-media/a37e7416-f591-4ab0-b582-baeff9285f60.jpg",
+                "imageCropSpecification": {
+                  "size": {
+                    "width": {
+                      "value": 491,
+                      "units": "pixels"
+                    },
+                    "height": {
+                      "value": 982,
+                      "units": "pixels"
+                    }
+                  },
+                  "offset": {
+                    "x": {
+                      "value": 1429,
+                      "units": "pixels"
+                    },
+                    "y": {
+                      "value": 0,
+                      "units": "pixels"
+                    }
+                  }
+                },
+                "altText": "חגורת הצלה"
+              },
+              "title": "XGEAR חגורת הצלה",
+              "asin": "B081Q1F6RY",
+              "highlight": false,
+              "metrics": [
+                {
+                  "position": 1,
+                  "value": "כחול"
+                },
+                {
+                  "position": 2,
+                  "value": "M-L-XL-XXL-3XL-4XL"
+                },
+                {
+                  "position": 3,
+                  "value": "USCG סוג III"
+                },
+                {
+                  "position": 4,
+                  "value": "קצף ניילון/PVC"
+                }
+              ]
+            },
+            {
+              "position": 5,
+              "image": {
+                "uploadDestinationId": null,
+                "imageCropSpecification": null,
+                "altText": ""
+              },
+              "title": "",
+              "asin": "",
+              "highlight": false,
+              "metrics": [
+                {
+                  "position": 1,
+                  "value": ""
+                },
+                {
+                  "position": 2,
+                  "value": ""
+                },
+                {
+                  "position": 3,
+                  "value": ""
+                },
+                {
+                  "position": 4,
+                  "value": ""
+                }
+              ]
+            },
+            {
+              "position": 6,
+              "image": {
+                "uploadDestinationId": null,
+                "imageCropSpecification": null,
+                "altText": ""
+              },
+              "title": "",
+              "asin": "",
+              "highlight": false,
+              "metrics": [
+                {
+                  "position": 1,
+                  "value": ""
+                },
+                {
+                  "position": 2,
+                  "value": ""
+                },
+                {
+                  "position": 3,
+                  "value": ""
+                },
+                {
+                  "position": 4,
+                  "value": ""
+                }
+              ]
+            }
+          ],
+          "metricRowLabels": [
+            {
+              "position": 1,
+              "value": "צבע"
+            },
+            {
+              "position": 2,
+              "value": "מידה"
+            },
+            {
+              "position": 3,
+              "value": "סוג"
+            },
+            {
+              "position": 4,
+              "value": "חומר"
+            }
+          ]
+        },
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": null,
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      },
+      {
+        "contentModuleType": "PRODUCT_DESCRIPTION",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": {
+          "body": {
+            "textList": [
+              {
+                "value": "Leader Accessories is a fast growing brand which focus on Automotive Sports & Outdoors and Home products manufacture for decades. Every step with our customers, we are dedicated to provide the high quality products with the best service. Power your adventure, make a better life. We will still keep listening to our customers, every words matter, every product you gonna have, come together we design, we improve, we love.",
+                "decoratorSet": [
+                  {
+                    "type": "STYLE_BOLD",
+                    "offset": 0,
+                    "length": 422,
+                    "depth": 0
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": null,
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      },
+      {
+        "contentModuleType": "HEADER_IMAGE_TEXT",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": {
+          "headline": {
+            "value": "",
+            "decoratorSet": []
+          },
+          "block": {
+            "image": {
+              "uploadDestinationId": "aplus-media-library-service-media/8276afe9-c933-46d8-90dc-650d7791db93.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": {
+                    "value": 970,
+                    "units": "pixels"
+                  },
+                  "height": {
+                    "value": 600,
+                    "units": "pixels"
+                  }
+                },
+                "offset": {
+                  "x": {
+                    "value": 0,
+                    "units": "pixels"
+                  },
+                  "y": {
+                    "value": 0,
+                    "units": "pixels"
+                  }
+                }
+              },
+              "altText": "boat cover ebc"
+            },
+            "headline": {
+              "value": "",
+              "decoratorSet": []
+            },
+            "body": {
+              "textList": [
+                {
+                  "value": "",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          }
+        },
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": null,
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      },
+      {
+        "contentModuleType": "FOUR_IMAGE_TEXT",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": null,
+        "standardFourImageText": {
+          "headline": null,
+          "block1": {
+            "image": {
+              "uploadDestinationId": "aplus-media-library-service-media/a7e5a718-9720-42c2-9485-7d2f54234935.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": {
+                    "value": 300,
+                    "units": "pixels"
+                  },
+                  "height": {
+                    "value": 300,
+                    "units": "pixels"
+                  }
+                },
+                "offset": {
+                  "x": {
+                    "value": 0,
+                    "units": "pixels"
+                  },
+                  "y": {
+                    "value": 0,
+                    "units": "pixels"
+                  }
+                }
+              },
+              "altText": "boat cover"
+            },
+            "headline": null,
+            "body": {
+              "textList": [
+                {
+                  "value": "Long-lasting solution-dyed fabric with double PU coating",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          },
+          "block2": {
+            "image": {
+              "uploadDestinationId": "aplus-media-library-service-media/66128fea-67d2-489e-bf9d-77077f58fe52.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": {
+                    "value": 300,
+                    "units": "pixels"
+                  },
+                  "height": {
+                    "value": 300,
+                    "units": "pixels"
+                  }
+                },
+                "offset": {
+                  "x": {
+                    "value": 0,
+                    "units": "pixels"
+                  },
+                  "y": {
+                    "value": 0,
+                    "units": "pixels"
+                  }
+                }
+              },
+              "altText": "boat cover"
+            },
+            "headline": null,
+            "body": {
+              "textList": [
+                {
+                  "value": "Double stitched seams all around. Elastic cord in bottom hem gives a tight fit.",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          },
+          "block3": {
+            "image": {
+              "uploadDestinationId": "aplus-media-library-service-media/ceb5f7ea-e15a-4ec6-b2cf-2a2b9f0fc0b1.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": {
+                    "value": 300,
+                    "units": "pixels"
+                  },
+                  "height": {
+                    "value": 300,
+                    "units": "pixels"
+                  }
+                },
+                "offset": {
+                  "x": {
+                    "value": 0,
+                    "units": "pixels"
+                  },
+                  "y": {
+                    "value": 0,
+                    "units": "pixels"
+                  }
+                }
+              },
+              "altText": "boat cover"
+            },
+            "headline": null,
+            "body": {
+              "textList": [
+                {
+                  "value": "A reflective stripe provides extra visibility and safety.",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          },
+          "block4": {
+            "image": {
+              "uploadDestinationId": "aplus-media-library-service-media/0ba1e313-28b2-485f-8101-a415842952e0.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": {
+                    "value": 300,
+                    "units": "pixels"
+                  },
+                  "height": {
+                    "value": 300,
+                    "units": "pixels"
+                  }
+                },
+                "offset": {
+                  "x": {
+                    "value": 0,
+                    "units": "pixels"
+                  },
+                  "y": {
+                    "value": 0,
+                    "units": "pixels"
+                  }
+                }
+              },
+              "altText": "boat cover"
+            },
+            "headline": null,
+            "body": {
+              "textList": [
+                {
+                  "value": "Rear air vents allow inside moisture to escape.",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          }
+        },
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": null,
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      },
+      {
+        "contentModuleType": "FOUR_IMAGE_TEXT_QUADRANT",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": {
+          "block1": {
+            "image": {
+              "uploadDestinationId": "aplus-media-library-service-media/c4680a1f-9ef6-4052-9ff0-0c0d044f56e5.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": {
+                    "value": 1000,
+                    "units": "pixels"
+                  },
+                  "height": {
+                    "value": 1000,
+                    "units": "pixels"
+                  }
+                },
+                "offset": {
+                  "x": {
+                    "value": 0,
+                    "units": "pixels"
+                  },
+                  "y": {
+                    "value": 0,
+                    "units": "pixels"
+                  }
+                }
+              },
+              "altText": "Advanced Safety for Peace of Mind"
+            },
+            "headline": {
+              "value": "Advanced Safety for Peace of Mind",
+              "decoratorSet": []
+            },
+            "body": {
+              "textList": [
+                {
+                  "value": "Short-circuit and overvoltage protection will keep you and your devices safe.",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          },
+          "block2": {
+            "image": {
+              "uploadDestinationId": "aplus-media-library-service-media/75831220-103b-49bd-a7ff-62d46260af9f.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": {
+                    "value": 1000,
+                    "units": "pixels"
+                  },
+                  "height": {
+                    "value": 1000,
+                    "units": "pixels"
+                  }
+                },
+                "offset": {
+                  "x": {
+                    "value": 0,
+                    "units": "pixels"
+                  },
+                  "y": {
+                    "value": 0,
+                    "units": "pixels"
+                  }
+                }
+              },
+              "altText": "Adjustable Kickstand"
+            },
+            "headline": {
+              "value": "Adjustable Kickstand",
+              "decoratorSet": []
+            },
+            "body": {
+              "textList": [
+                {
+                  "value": "Built-in kickstand enables you to position your panel to get optimal sunlight.",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          },
+          "block3": {
+            "image": {
+              "uploadDestinationId": "aplus-media-library-service-media/f54c66d1-d8e2-4d6a-8c32-52102ee866b8.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": {
+                    "value": 1000,
+                    "units": "pixels"
+                  },
+                  "height": {
+                    "value": 1000,
+                    "units": "pixels"
+                  }
+                },
+                "offset": {
+                  "x": {
+                    "value": 0,
+                    "units": "pixels"
+                  },
+                  "y": {
+                    "value": 0,
+                    "units": "pixels"
+                  }
+                }
+              },
+              "altText": "Solar Adapter Compatible"
+            },
+            "headline": {
+              "value": "Solar Adapter Compatible",
+              "decoratorSet": []
+            },
+            "body": {
+              "textList": [
+                {
+                  "value": "Connect to PowerHouse with solar charging cable and a XT-60 to DC7909 connector.",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          },
+          "block4": {
+            "image": {
+              "uploadDestinationId": "aplus-media-library-service-media/230a67e3-0698-402e-9c9b-604d3948c8c5.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": {
+                    "value": 220,
+                    "units": "pixels"
+                  },
+                  "height": {
+                    "value": 220,
+                    "units": "pixels"
+                  }
+                },
+                "offset": {
+                  "x": {
+                    "value": 0,
+                    "units": "pixels"
+                  },
+                  "y": {
+                    "value": 0,
+                    "units": "pixels"
+                  }
+                }
+              },
+              "altText": "Kickstand with Extra Storage Space"
+            },
+            "headline": {
+              "value": "Kickstand with Extra Storage Space",
+              "decoratorSet": []
+            },
+            "body": {
+              "textList": [
+                {
+                  "value": "The solar panel's adjustable stand doubles as a kickstand and provides additional storage space.",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          }
+        },
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": null,
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      },
+      {
+        "contentModuleType": "SINGLE_IMAGE_HIGHLIGHTS",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": {
+          "image": {
+            "uploadDestinationId": "aplus-media-library-service-media/32b23ee6-1885-4295-bb26-e2f90c0fac49.jpg",
+            "imageCropSpecification": {
+              "size": {
+                "width": {
+                  "value": 300,
+                  "units": "pixels"
+                },
+                "height": {
+                  "value": 300,
+                  "units": "pixels"
+                }
+              },
+              "offset": {
+                "x": {
+                  "value": 0,
+                  "units": "pixels"
+                },
+                "y": {
+                  "value": 50,
+                  "units": "pixels"
+                }
+              }
+            },
+            "altText": "size specfication"
+          },
+          "headline": {
+            "value": "5.7 ft Hard Trifold Truck Bed Cover",
+            "decoratorSet": []
+          },
+          "textBlock1": {
+            "headline": null,
+            "body": {
+              "textList": [
+                {
+                  "value": "Our truck bed cover is  made out of high quality and lightweight aluminum. It helps protect all  your gears from the elements and thieves, saving your time spent  cleaning the truck box. Direct Bolt-On: It features a pre-assembled,  no-drill design. It is a top-mount design cover, which means the cover  sits on top of the bed rails for improved water runoff and minimal bed  space intrusion—Water-resistant against any climate. The sleek  appearance will improve gas mileage up to 20% by improving aerodynamics.  What's more, Unique clamp-on design, easy to put on and take away,  flip, and drop. No matter what you need it for, we've got you covered.  Each cover is custom-made to fit a specific truck.",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          },
+          "textBlock2": {
+            "headline": null,
+            "body": {
+              "textList": [
+                {
+                  "value": "Stylish & Durable FinishSuperior SealabilityMore Considerate & More StableLarger Bed AccessEase of Installation",
+                  "decoratorSet": [
+                    {
+                      "type": "LIST_ITEM",
+                      "offset": 91,
+                      "length": 20,
+                      "depth": 0
+                    },
+                    {
+                      "type": "LIST_ITEM",
+                      "offset": 24,
+                      "length": 20,
+                      "depth": 0
+                    },
+                    {
+                      "type": "LIST_ITEM",
+                      "offset": 44,
+                      "length": 30,
+                      "depth": 0
+                    },
+                    {
+                      "type": "LIST_ITEM",
+                      "offset": 74,
+                      "length": 17,
+                      "depth": 0
+                    },
+                    {
+                      "type": "LIST_UNORDERED",
+                      "offset": 0,
+                      "length": 111,
+                      "depth": 0
+                    },
+                    {
+                      "type": "LIST_ITEM",
+                      "offset": 0,
+                      "length": 24,
+                      "depth": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "textBlock3": null,
+          "bulletedListBlock": {
+            "headline": {
+              "value": "Specifications",
+              "decoratorSet": []
+            },
+            "block": {
+              "textList": [
+                {
+                  "position": 1,
+                  "text": {
+                    "value": "Fit for: Ford F-150 2004-2021     ",
+                    "decoratorSet": []
+                  }
+                },
+                {
+                  "position": 2,
+                  "text": {
+                    "value": "Size: 5.7 ft (1.735 m)    ",
+                    "decoratorSet": []
+                  }
+                },
+                {
+                  "position": 3,
+                  "text": {
+                    "value": " Load Capacity: 350 lb (90.72 kg)     ",
+                    "decoratorSet": []
+                  }
+                },
+                {
+                  "position": 4,
+                  "text": {
+                    "value": "Weight: 52.9lb (24 kg)     ",
+                    "decoratorSet": []
+                  }
+                },
+                {
+                  "position": 5,
+                  "text": {
+                    "value": "Package Size: 68.1\"x26.1\"x3.9\"",
+                    "decoratorSet": []
+                  }
+                },
+                {
+                  "position": 6,
+                  "text": {
+                    "value": " Style: Trifold     Type: Hard    ",
+                    "decoratorSet": []
+                  }
+                },
+                {
+                  "position": 7,
+                  "text": {
+                    "value": "Package Content: 1 x Trifold Truck Bed Cover   ",
+                    "decoratorSet": []
+                  }
+                },
+                {
+                  "position": 8,
+                  "text": {
+                    "value": "1 x Manual",
+                    "decoratorSet": []
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": null,
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      },
+      {
+        "contentModuleType": "TECH_SPECS",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": null,
+        "standardTechSpecs": {
+          "headline": {
+            "value": "Detalles del producto",
+            "decoratorSet": []
+          },
+          "specificationList": [
+            {
+              "label": {
+                "value": "Nombre del artículo",
+                "decoratorSet": []
+              },
+              "description": {
+                "value": "VEVOR 20L Compact Heladera",
+                "decoratorSet": []
+              }
+            },
+            {
+              "label": {
+                "value": "Fuction",
+                "decoratorSet": []
+              },
+              "description": {
+                "value": "Enfriamiento y calentador",
+                "decoratorSet": []
+              }
+            },
+            {
+              "label": {
+                "value": "Temperatura mínima",
+                "decoratorSet": []
+              },
+              "description": {
+                "value": "32 - 44.6°F",
+                "decoratorSet": []
+              }
+            },
+            {
+              "label": {
+                "value": "Temperatura máxima",
+                "decoratorSet": []
+              },
+              "description": {
+                "value": "149 ℉",
+                "decoratorSet": []
+              }
+            },
+            {
+              "label": {
+                "value": "Opciones de alimentación ",
+                "decoratorSet": []
+              },
+              "description": {
+                "value": "CA, CC ",
+                "decoratorSet": []
+              }
+            },
+            {
+              "label": {
+                "value": "Tamaño del producto",
+                "decoratorSet": []
+              },
+              "description": {
+                "value": "13.97 x 11.02 x 16.14 pulgadas",
+                "decoratorSet": []
+              }
+            },
+            {
+              "label": {
+                "value": "Peso",
+                "decoratorSet": []
+              },
+              "description": {
+                "value": "12.12 libras",
+                "decoratorSet": []
+              }
+            },
+            {
+              "label": {
+                "value": "Característica 1",
+                "decoratorSet": []
+              },
+              "description": {
+                "value": "Memoria de corte",
+                "decoratorSet": []
+              }
+            },
+            {
+              "label": {
+                "value": "Característica 2",
+                "decoratorSet": []
+              },
+              "description": {
+                "value": "Control de temperatura de la pantalla táctil",
+                "decoratorSet": []
+              }
+            }
+          ],
+          "tableCount": 2
+        },
+        "standardText": null,
+        "standardThreeImageText": null
+      },
+      {
+        "contentModuleType": "SINGLE_IMAGE_SPECS_DETAIL",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": {
+          "headline": null,
+          "image": {
+            "uploadDestinationId": "aplus-media/sc/b02d7ab6-ddf2-4538-bbde-3fe2301c6d86.jpg",
+            "imageCropSpecification": {
+              "size": {
+                "width": {
+                  "value": 300,
+                  "units": "pixels"
+                },
+                "height": {
+                  "value": 300,
+                  "units": "pixels"
+                }
+              },
+              "offset": {
+                "x": {
+                  "value": 0,
+                  "units": "pixels"
+                },
+                "y": {
+                  "value": 0,
+                  "units": "pixels"
+                }
+              }
+            },
+            "altText": "3"
+          },
+          "descriptionHeadline": null,
+          "descriptionBlock1": {
+            "headline": {
+              "value": "About Product:",
+              "decoratorSet": []
+            },
+            "body": {
+              "textList": [
+                {
+                  "value": "Waterproof heat sealed seams to protect your stuff from dust,sand and waterTough and durable baseIncludes ID pocket on topHigh frequency welded seamsDurable,wipe clean and easy to store awayTwin haul handles on endsHeavy duty and durable materials for rough usageAdjustable and padded shoulder included",
+                  "decoratorSet": [
+                    {
+                      "type": "LIST_ITEM",
+                      "offset": 0,
+                      "length": 75,
+                      "depth": 0
+                    },
+                    {
+                      "type": "LIST_ITEM",
+                      "offset": 75,
+                      "length": 22,
+                      "depth": 0
+                    },
+                    {
+                      "type": "LIST_ITEM",
+                      "offset": 97,
+                      "length": 25,
+                      "depth": 0
+                    },
+                    {
+                      "type": "LIST_ITEM",
+                      "offset": 215,
+                      "length": 48,
+                      "depth": 0
+                    },
+                    {
+                      "type": "LIST_ITEM",
+                      "offset": 149,
+                      "length": 41,
+                      "depth": 0
+                    },
+                    {
+                      "type": "LIST_ITEM",
+                      "offset": 122,
+                      "length": 27,
+                      "depth": 0
+                    },
+                    {
+                      "type": "LIST_ORDERED",
+                      "offset": 0,
+                      "length": 302,
+                      "depth": 0
+                    },
+                    {
+                      "type": "LIST_ITEM",
+                      "offset": 263,
+                      "length": 39,
+                      "depth": 0
+                    },
+                    {
+                      "type": "LIST_ITEM",
+                      "offset": 190,
+                      "length": 25,
+                      "depth": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "descriptionBlock2": {
+            "headline": {
+              "value": "Attention:",
+              "decoratorSet": []
+            },
+            "body": {
+              "textList": [
+                {
+                  "value": "Make sure the zipper cover is in place. The bag will protect against any conceivable circumstance but not completely submersion!",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          },
+          "specificationHeadline": null,
+          "specificationListBlock": {
+            "headline": {
+              "value": "Color:",
+              "decoratorSet": []
+            },
+            "block": {
+              "textList": [
+                {
+                  "position": 1,
+                  "text": {
+                    "value": "Blue / Yellow / Black / Orange / Grey / Green",
+                    "decoratorSet": []
+                  }
+                }
+              ]
+            }
+          },
+          "specificationTextBlock": {
+            "headline": {
+              "value": "Dimensions:",
+              "decoratorSet": []
+            },
+            "body": {
+              "textList": [
+                {
+                  "value": "40L - 20\"*12.2\"*12.2\"70L - 24\"*15.4\"*15.4\"90L - 28.3\"*15.4\"*15.4\"",
+                  "decoratorSet": [
+                    {
+                      "type": "LIST_ITEM",
+                      "offset": 42,
+                      "length": 23,
+                      "depth": 0
+                    },
+                    {
+                      "type": "LIST_ITEM",
+                      "offset": 21,
+                      "length": 21,
+                      "depth": 0
+                    },
+                    {
+                      "type": "LIST_ITEM",
+                      "offset": 0,
+                      "length": 21,
+                      "depth": 0
+                    },
+                    {
+                      "type": "LIST_UNORDERED",
+                      "offset": 0,
+                      "length": 65,
+                      "depth": 0
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "standardSingleSideImage": null,
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      },
+      {
+        "contentModuleType": "IMAGE_SIDEBAR",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": {
+          "headline": {
+            "value": "PowerLine Lightning",
+            "decoratorSet": []
+          },
+          "imageCaptionBlock": {
+            "image": {
+              "uploadDestinationId": "aplus-media/sc/89624056-457f-48b7-b075-93a6759ab4cd.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": {
+                    "value": 300,
+                    "units": "pixels"
+                  },
+                  "height": {
+                    "value": 400,
+                    "units": "pixels"
+                  }
+                },
+                "offset": {
+                  "x": {
+                    "value": 0,
+                    "units": "pixels"
+                  },
+                  "y": {
+                    "value": 0,
+                    "units": "pixels"
+                  }
+                }
+              },
+              "altText": " "
+            },
+            "caption": null
+          },
+          "descriptionTextBlock": {
+            "headline": null,
+            "body": {
+              "textList": [
+                {
+                  "value": "After months of research and development, our goal to create one of the best cables in the world was successful. The result: PowerLine Lightning—the new industry standard Lightning cable.",
+                  "decoratorSet": []
+                },
+                {
+                  "value": "",
+                  "decoratorSet": []
+                },
+                {
+                  "value": "Using engineering innovations like laser welding, aramid reinforcement and dual PVC fusion, it boasts durability of greater durability.",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          },
+          "descriptionListBlock": {
+            "textList": [
+              {
+                "position": 1,
+                "text": {
+                  "value": "Bulletproof reinforcement for unsurpassed durability.",
+                  "decoratorSet": []
+                }
+              },
+              {
+                "position": 2,
+                "text": {
+                  "value": "Laser welding and fusion PVC offer more reliable connections.",
+                  "decoratorSet": []
+                }
+              },
+              {
+                "position": 3,
+                "text": {
+                  "value": "Peace of mind thanks to full MFi certification.",
+                  "decoratorSet": []
+                }
+              }
+            ]
+          },
+          "sidebarImageTextBlock": {
+            "image": {
+              "uploadDestinationId": "aplus-media/sc/f7106bb8-fd8f-45d1-aeab-2eb404bde30d.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": {
+                    "value": 350,
+                    "units": "pixels"
+                  },
+                  "height": {
+                    "value": 175,
+                    "units": "pixels"
+                  }
+                },
+                "offset": {
+                  "x": {
+                    "value": 0,
+                    "units": "pixels"
+                  },
+                  "y": {
+                    "value": 0,
+                    "units": "pixels"
+                  }
+                }
+              },
+              "altText": " "
+            },
+            "headline": {
+              "value": "PowerLine",
+              "decoratorSet": []
+            },
+            "body": {
+              "textList": [
+                {
+                  "value": "Make sure you don’t compromise your device’s advanced technology—we offer one of the highest durability and charging speeds.",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          },
+          "sidebarListBlock": null
+        },
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": null,
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      }
+    ]
+  }
+}

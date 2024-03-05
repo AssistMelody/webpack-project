@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>a+ Demo</title>
+  <style>
+    body {
+      width: 100%;
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+</head>
+<body>
+  <section id="mkt-aplus" class="pc">
+    {{#each contentDocument.contentModuleList}}
+        {{> (moduleType this "contentModuleType" ) }}
+    {{/each}}
+</section>
+</body>
+</html>

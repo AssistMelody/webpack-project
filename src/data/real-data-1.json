@@ -1,0 +1,510 @@
+{
+  "contentReferenceKey": "d734633e-3580-4228-b135-a08ef7fb607a",
+  "contentMetadata": {
+    "name": "600D tire cover 3023",
+    "marketplaceId": "ATVPDKIKX0DER",
+    "status": "APPROVED",
+    "badgeSet": ["GENERATED", "STANDARD"],
+    "updateTime": {
+      "offset": {
+        "totalSeconds": 0,
+        "id": "Z",
+        "rules": { "transitions": [], "transitionRules": [], "fixedOffset": true }
+      },
+      "dayOfYear": 86,
+      "dayOfWeek": "MONDAY",
+      "month": "MARCH",
+      "dayOfMonth": 27,
+      "year": 2023,
+      "monthValue": 3,
+      "nano": 332000000,
+      "hour": 0,
+      "minute": 19,
+      "second": 33
+    }
+  },
+  "contentDocument": {
+    "name": "600D tire cover 3023",
+    "contentType": "EBC",
+    "contentSubType": null,
+    "locale": "he-IL",
+    "contentModuleList": [
+      {
+        "contentModuleType": "COMPANY_LOGO",
+        "standardCompanyLogo": {
+          "companyLogo": {
+            "uploadDestinationId": "aplus-media/sc/040ed7d1-2341-4a79-b89d-8165f1475a0a.jpg",
+            "imageCropSpecification": {
+              "size": {
+                "width": { "value": 600, "units": "pixels" },
+                "height": { "value": 180, "units": "pixels" }
+              },
+              "offset": {
+                "x": { "value": 0, "units": "pixels" },
+                "y": { "value": 0, "units": "pixels" }
+              }
+            },
+            "altText": "אביזרי מוביל כיסוי צמיג"
+          }
+        },
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": null,
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      },
+      {
+        "contentModuleType": "PRODUCT_DESCRIPTION",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": { "body": null },
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": null,
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      },
+      {
+        "contentModuleType": "HEADER_IMAGE_TEXT",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": {
+          "headline": null,
+          "block": {
+            "image": {
+              "uploadDestinationId": "aplus-media/sc/9b36e723-6650-4b05-9f7d-e6316efe7f60.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": { "value": 970, "units": "pixels" },
+                  "height": { "value": 600, "units": "pixels" }
+                },
+                "offset": {
+                  "x": { "value": 0, "units": "pixels" },
+                  "y": { "value": 0, "units": "pixels" }
+                }
+              },
+              "altText": "כיסוי צמיג 600D"
+            },
+            "headline": null,
+            "body": null
+          }
+        },
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": null,
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      },
+      {
+        "contentModuleType": "THREE_IMAGE_TEXT",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": null,
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": {
+          "headline": null,
+          "block1": {
+            "image": {
+              "uploadDestinationId": "aplus-media/sc/3c898bbe-5556-436b-ae99-e28b9af29f02.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": { "value": 300, "units": "pixels" },
+                  "height": { "value": 300, "units": "pixels" }
+                },
+                "offset": {
+                  "x": { "value": 0, "units": "pixels" },
+                  "y": { "value": 0, "units": "pixels" }
+                }
+              },
+              "altText": "חומר"
+            },
+            "headline": { "value": "חומר באיכות גבוהה", "decoratorSet": [] },
+            "body": {
+              "textList": [
+                { "value": "100% בד אוקספורד 600D עמיד במים עם ציפוי PVC", "decoratorSet": [] }
+              ]
+            }
+          },
+          "block2": {
+            "image": {
+              "uploadDestinationId": "aplus-media/sc/4e572f1e-6b3e-43d2-a2c2-6e440efbd481.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": { "value": 300, "units": "pixels" },
+                  "height": { "value": 300, "units": "pixels" }
+                },
+                "offset": {
+                  "x": { "value": 0, "units": "pixels" },
+                  "y": { "value": 0, "units": "pixels" }
+                }
+              },
+              "altText": "מכפלת אלסטית"
+            },
+            "headline": { "value": "התאמה בטוחה", "decoratorSet": [] },
+            "body": {
+              "textList": [
+                {
+                  "value": "מכפלת אחורית אלסטית ועיצוב וו להתאמה מהירה ומתכווננת, מונעים מכיסוי הצמיג להתפוצץ ברוח הכבדה",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          },
+          "block3": {
+            "image": {
+              "uploadDestinationId": "aplus-media/sc/f12c426f-15d2-48c0-9854-b3624ae463f7.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": { "value": 300, "units": "pixels" },
+                  "height": { "value": 300, "units": "pixels" }
+                },
+                "offset": {
+                  "x": { "value": 0, "units": "pixels" },
+                  "y": { "value": 0, "units": "pixels" }
+                }
+              },
+              "altText": "פונקציה"
+            },
+            "headline": { "value": "רב שימושי", "decoratorSet": [] },
+            "body": {
+              "textList": [
+                {
+                  "value": "הגנו על הצמיגים והגלגלים מפני השמש, לכלוך, קורוזיה וכל סוגי מזג האוויר בזמן שהרכב שלכם חונה",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          }
+        }
+      },
+      {
+        "contentModuleType": "SINGLE_SIDE_IMAGE",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": {
+          "imagePositionType": "LEFT",
+          "block": {
+            "image": {
+              "uploadDestinationId": "aplus-media/sc/5ee0b2fe-149c-4fc7-81ce-c20fdc072a2a.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": { "value": 300, "units": "pixels" },
+                  "height": { "value": 300, "units": "pixels" }
+                },
+                "offset": {
+                  "x": { "value": 0, "units": "pixels" },
+                  "y": { "value": 0, "units": "pixels" }
+                }
+              },
+              "altText": "מדידה"
+            },
+            "headline": { "value": "כיצד לקבל מידה מתאימה?", "decoratorSet": [] },
+            "body": {
+              "textList": [
+                {
+                  "value": "שימו לב: אתם יכולים לשאול אותנו ישירות אם אינכם בטוחים לגבי המידה, נשמח לעזור! או שתוכלו לבדוק את קוטר הצמיג בהתבסס על שתי השיטות הבאות.",
+                  "decoratorSet": []
+                },
+                { "value": "", "decoratorSet": [] },
+                { "value": "שיטה 1:", "decoratorSet": [] },
+                {
+                  "value": "מדדו את כל קוטר הצמיג. זכרו לכלול גם את גודל השפה וגם את גובה הדופן הצדדית.",
+                  "decoratorSet": []
+                },
+                { "value": "", "decoratorSet": [] },
+                { "value": "שיטה 2:", "decoratorSet": [] },
+                {
+                  "value": "שלב 1: בדוק את המספר הסידורי בצמיג שלך, למשל. עבור 225 /70 R16. ( A=225; B=70; C=16)שלב 2: עיינו בנוסחה שלהלן וחשבו: קוטר מלא = 2*A*B/2540 + C = 2*225*70/2540 +16 = 78.4 אינץ'שלב 3: החליפו את המספרים המתאימים בנוסחה, ואז קבלו את גודל הכיסוי הנכון שאתם צריכים לקנות.",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          }
+        },
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      },
+      {
+        "contentModuleType": "SINGLE_SIDE_IMAGE",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": null,
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": {
+          "imagePositionType": "RIGHT",
+          "block": {
+            "image": {
+              "uploadDestinationId": "aplus-media/sc/a08182f2-c43e-4757-804a-f96448f32015.jpg",
+              "imageCropSpecification": {
+                "size": {
+                  "width": { "value": 300, "units": "pixels" },
+                  "height": { "value": 300, "units": "pixels" }
+                },
+                "offset": {
+                  "x": { "value": 0, "units": "pixels" },
+                  "y": { "value": 0, "units": "pixels" }
+                }
+              },
+              "altText": "סצנה"
+            },
+            "headline": {
+              "value": "אוקספורד 600D באיכות גבוהה עם ציפוי PVC לכיסוי צמיג קרוואן",
+              "decoratorSet": []
+            },
+            "body": {
+              "textList": [
+                {
+                  "value": "לאוקספורד 600D יש גמישות וחוזק מתיחה טובים יותר מויניל, אוקספורד 420D, 210d ובד לא ארוג. כיסויי צמיגים לכל העונות עשויים אוקספורד 600D באיכות גבוהה עם בד ציפוי PVC. עמיד במים יותר, עמיד בפני קור, קל לניקוי ועמידות בטמפרטורה גבוהה, מאריך את חיי השירות.",
+                  "decoratorSet": []
+                }
+              ]
+            }
+          }
+        },
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      },
+      {
+        "contentModuleType": "COMPARISON_TABLE",
+        "standardCompanyLogo": null,
+        "standardComparisonTable": {
+          "productColumns": [
+            {
+              "position": 1,
+              "image": {
+                "uploadDestinationId": "aplus-media-library-service-media/0d3c007c-c915-4aa8-a22f-34f0d9b716f7.png",
+                "imageCropSpecification": {
+                  "size": {
+                    "width": { "value": 1500, "units": "pixels" },
+                    "height": { "value": 3000, "units": "pixels" }
+                  },
+                  "offset": {
+                    "x": { "value": 0, "units": "pixels" },
+                    "y": { "value": 0, "units": "pixels" }
+                  }
+                },
+                "altText": "כיסוי צמיג רזרבי - שחור"
+              },
+              "title": "כיסוי אוניברסלי לצמיג רזרבי",
+              "asin": "B00NILZDE6",
+              "highlight": false,
+              "metrics": [
+                { "position": 1, "value": "שחור" },
+                { "position": 2, "value": "ויניל, כותנה" },
+                { "position": 3, "value": "✔" },
+                { "position": 4, "value": "✔" },
+                { "position": 5, "value": "" }
+              ]
+            },
+            {
+              "position": 2,
+              "image": {
+                "uploadDestinationId": "aplus-media-library-service-media/a5904a59-13d4-4287-ad5b-2342434d8913.jpg",
+                "imageCropSpecification": {
+                  "size": {
+                    "width": { "value": 1500, "units": "pixels" },
+                    "height": { "value": 3000, "units": "pixels" }
+                  },
+                  "offset": {
+                    "x": { "value": 0, "units": "pixels" },
+                    "y": { "value": 0, "units": "pixels" }
+                  }
+                },
+                "altText": "כיסוי צמיג רזרבי עם רצועת אבזם"
+              },
+              "title": "תא צמיג חלופי אולטימטיבי (עם רצועת אבזם)",
+              "asin": "B0B2PWDFV3",
+              "highlight": true,
+              "metrics": [
+                { "position": 1, "value": "שחור" },
+                { "position": 2, "value": "ויניל, כותנה" },
+                { "position": 3, "value": "✔" },
+                { "position": 4, "value": "✔" },
+                { "position": 5, "value": "✔" }
+              ]
+            },
+            {
+              "position": 3,
+              "image": {
+                "uploadDestinationId": "aplus-media-library-service-media/add462ec-9bf1-4d96-b113-b6591287c338.png",
+                "imageCropSpecification": {
+                  "size": {
+                    "width": { "value": 361, "units": "pixels" },
+                    "height": { "value": 721, "units": "pixels" }
+                  },
+                  "offset": {
+                    "x": { "value": 4, "units": "pixels" },
+                    "y": { "value": 0, "units": "pixels" }
+                  }
+                },
+                "altText": "כיסוי צמיג 600D"
+              },
+              "title": "כיסוי צמיג אוקספורד 600D (חבילה של 4)",
+              "asin": "B07S6M8T4T",
+              "highlight": false,
+              "metrics": [
+                { "position": 1, "value": "בז'" },
+                { "position": 2, "value": "פוליאסטר 600D" },
+                { "position": 3, "value": "✔" },
+                { "position": 4, "value": "✔" },
+                { "position": 5, "value": "✔" }
+              ]
+            },
+            {
+              "position": 4,
+              "image": {
+                "uploadDestinationId": "aplus-media-library-service-media/55d2057b-9bf2-4292-8914-04dea437235c.png",
+                "imageCropSpecification": {
+                  "size": {
+                    "width": { "value": 1500, "units": "pixels" },
+                    "height": { "value": 3000, "units": "pixels" }
+                  },
+                  "offset": {
+                    "x": { "value": 0, "units": "pixels" },
+                    "y": { "value": 0, "units": "pixels" }
+                  }
+                },
+                "altText": "כיסוי צמיג לא ארוג - אפור"
+              },
+              "title": "כיסוי צמיג לא ארוג 5 שכבות (חבילה של 4)",
+              "asin": "B07TDJRRVF",
+              "highlight": true,
+              "metrics": [
+                { "position": 1, "value": "אפור" },
+                { "position": 2, "value": "בד לא ארוג" },
+                { "position": 3, "value": "✔" },
+                { "position": 4, "value": "✔" },
+                { "position": 5, "value": "✔" }
+              ]
+            },
+            {
+              "position": 5,
+              "image": {
+                "uploadDestinationId": "aplus-media-library-service-media/d280da41-e06d-4346-bdfc-580216aa7c5f.png",
+                "imageCropSpecification": {
+                  "size": {
+                    "width": { "value": 341, "units": "pixels" },
+                    "height": { "value": 682, "units": "pixels" }
+                  },
+                  "offset": {
+                    "x": { "value": 0, "units": "pixels" },
+                    "y": { "value": 0, "units": "pixels" }
+                  }
+                },
+                "altText": "כיסוי צמיג עם ציר כפול - אפור"
+              },
+              "title": "כיסוי גלגל צמיג עם ציר כפול (חבילה של 2)",
+              "asin": "B09YXQ8TK1",
+              "highlight": false,
+              "metrics": [
+                { "position": 1, "value": "שחור/אפור/לבן" },
+                { "position": 2, "value": "ויניל, כותנה" },
+                { "position": 3, "value": "✔" },
+                { "position": 4, "value": "✔" },
+                { "position": 5, "value": "✔" }
+              ]
+            },
+            {
+              "position": 6,
+              "image": {
+                "uploadDestinationId": "aplus-media-library-service-media/989b7434-df96-41d0-b867-425111ebd224.png",
+                "imageCropSpecification": {
+                  "size": {
+                    "width": { "value": 1500, "units": "pixels" },
+                    "height": { "value": 3000, "units": "pixels" }
+                  },
+                  "offset": {
+                    "x": { "value": 0, "units": "pixels" },
+                    "y": { "value": 0, "units": "pixels" }
+                  }
+                },
+                "altText": "כיסוי צמיג PVC - שחור"
+              },
+              "title": "כיסוי צמיג PVC עבה (חבילה של 4)",
+              "asin": "B072M6W3R5",
+              "highlight": true,
+              "metrics": [
+                { "position": 1, "value": "שחור/אפור/לבן" },
+                { "position": 2, "value": "עור PVC" },
+                { "position": 3, "value": "✔" },
+                { "position": 4, "value": "✔" },
+                { "position": 5, "value": "✔" }
+              ]
+            }
+          ],
+          "metricRowLabels": [
+            { "position": 1, "value": "צבע" },
+            { "position": 2, "value": "חומר" },
+            { "position": 3, "value": "עמיד בפני קרני UV" },
+            { "position": 4, "value": "עמיד במים" },
+            { "position": 5, "value": "רצועה מאובטחת כלולה" }
+          ]
+        },
+        "standardFourImageText": null,
+        "standardFourImageTextQuadrant": null,
+        "standardHeaderImageText": null,
+        "standardImageSidebar": null,
+        "standardImageTextOverlay": null,
+        "standardMultipleImageText": null,
+        "standardProductDescription": null,
+        "standardSingleImageHighlights": null,
+        "standardSingleImageSpecsDetail": null,
+        "standardSingleSideImage": null,
+        "standardTechSpecs": null,
+        "standardText": null,
+        "standardThreeImageText": null
+      }
+    ]
+  }
+}

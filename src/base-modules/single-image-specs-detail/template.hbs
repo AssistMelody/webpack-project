@@ -1,0 +1,43 @@
+<section class='mkt-standard-single-image-specs-detail'>
+  <h2>{{standardSingleImageSpecsDetail.headline.value}}</h2>
+  <div class="content">
+    <div class='main-image'>
+      <img src='{{standardSingleImageSpecsDetail.image.uploadDestinationId}}' alt='' />
+    </div>
+    <div class='body'>
+      <h3>{{standardSingleImageSpecsDetail.descriptionHeadline.value}}</h3>
+      <div class='block'>
+        <h3>{{standardSingleImageSpecsDetail.descriptionBlock1.headline.value}}</h3>
+        {{#each standardSingleImageSpecsDetail.descriptionBlock1.body.textList}}
+          {{> text value=value }}
+        {{/each}}
+      </div>
+      <div class='block'>
+        <h3>{{standardSingleImageSpecsDetail.descriptionBlock2.headline.value}}</h3>
+        {{#each standardSingleImageSpecsDetail.descriptionBlock2.body.textList}}
+          {{> text value=value }}
+        {{/each}}
+      </div>
+    </div>
+    <div class='tech-specs'>
+      <h3>
+        {{standardSingleImageSpecsDetail.specificationHeadline.value}}
+      </h3>
+      <div class="bubble-list">
+        <h4>{{standardSingleImageSpecsDetail.specificationListBlock.headline.value}}</h4>
+        <ul>
+          {{#each standardSingleImageSpecsDetail.specificationListBlock.textList}}
+            <li>{{value}}</li>
+          {{/each}}
+        </ul>
+        
+      </div>
+      <div class="tech-specs-body">
+        <h4>{{standardSingleImageSpecsDetail.specificationTextBlock.headline.value}}</h4>
+        {{#each standardSingleImageSpecsDetail.specificationTextBlock.body.textList}}
+          {{> text value=value }}
+        {{/each}}
+      </div>
+    </div>
+  </div>
+</section>

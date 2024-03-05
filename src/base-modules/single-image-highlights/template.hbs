@@ -1,0 +1,36 @@
+<section class='mkt-standard-single-image-highlights'>
+  <div class='main-image'>
+    <img src='{{standardSingleImageHighlights.image.uploadDestinationId}}' alt='' />
+  </div>
+  <div class='body'>
+    <h3>{{standardSingleImageHighlights.headline.value}}</h3>
+    <div class='block'>
+      <h3>{{standardSingleImageHighlights.textBlock1.headline.value }}</h3>
+      {{#each standardSingleImageHighlights.textBlock1.body.textList}}
+        {{> text value=value }}
+      {{/each}}
+    </div>
+    <div class='block'>
+      <h3>{{standardSingleImageHighlights.textBlock2.headline.value }}</h3>
+      {{#each standardSingleImageHighlights.textBlock2.body.textList}}
+        {{> text value=value }}
+      {{/each}}
+    </div>
+    <div class='block'>
+      <h3>{{standardSingleImageHighlights.textBlock3.headline.value }}</h3>
+      {{#each standardSingleImageHighlights.textBlock3.body.textList}}
+        {{> text value=value }}
+      {{/each}}
+    </div>
+  </div>
+  <div class='tech-specs'>
+    <div>
+      <h4>{{standardSingleImageHighlights.bulletedListBlock.headline.value}}</h4>
+      <div class="list">
+        {{#each standardSingleImageHighlights.bulletedListBlock.bulletedListBlock.textList}}
+          <p>{{{value}}}</p>
+        {{/each}}
+      </div>
+    </div>
+  </div>
+</section>

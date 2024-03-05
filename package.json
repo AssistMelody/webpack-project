@@ -1,0 +1,47 @@
+{
+  "name": "aplus",
+  "version": "1.0.0",
+  "description": "A+模版",
+  "bin": {
+    "aplus": "./bin/aplus.js"
+  },
+  "scripts": {
+    "build:prod": "cross-env CURRENT_ENV=prod webpack --config webpack.config.prod.js",
+    "build:dev": "cross-env CURRENT_ENV=dev webpack --config webpack.config.prod.js",
+    "build:stg": "cross-env CURRENT_ENV=stg webpack --config webpack.config.prod.js",
+    "dev": "bash ./start.bash"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.24.0",
+    "@babel/eslint-parser": "^7.23.10",
+    "autoprefixer": "^10.4.17",
+    "chalk": "^4",
+    "commander": "^12.0.0",
+    "cross-env": "^7.0.3",
+    "css-loader": "^6.10.0",
+    "dotenv": "^16.4.5",
+    "dotenv-webpack": "^8.0.1",
+    "eslint": "^8.57.0",
+    "eslint-config-alloy": "^5.1.2",
+    "handlebars": "^4.7.8",
+    "handlebars-loader": "^1.7.3",
+    "handlebars-webpack-plugin": "^2.2.1",
+    "html-webpack-plugin": "^5.6.0",
+    "inquirer": "^8",
+    "less": "^4.2.0",
+    "less-loader": "^12.2.0",
+    "mini-css-extract-plugin": "^2.8.0",
+    "postcss": "^8.4.33",
+    "postcss-loader": "^8.1.0",
+    "postcss-preset-env": "^9.3.0",
+    "style-loader": "^3.3.4",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1",
+    "webpack-merge": "^5.10.0",
+    "ajv": "^8.12.0"
+  }
+}

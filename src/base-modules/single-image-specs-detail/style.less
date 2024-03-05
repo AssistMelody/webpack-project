@@ -1,0 +1,52 @@
+#mkt-aplus {
+  section[class='mkt-standard-single-image-specs-detail'] {
+    .content {
+      .main-image {
+        img {
+          width: 100%;
+        }
+      }
+      .body {
+        .block {
+          h3 {
+            margin-top: 12px;
+          }
+        }
+      }
+      .tech-specs {
+        .bubble-list ul {
+          padding-left: 0;
+          margin-left: 18px;
+          li {
+            margin-bottom: 8px;
+          }
+        }
+        & > div {
+          margin-top: 12px;
+        }
+      }
+    }
+  }
+  &.mobile {
+    section[class='mkt-standard-single-image-specs-detail'] {
+      .content {
+      }
+      .tech-specs {
+        padding-left: 0;
+      }
+    }
+  }
+  &.pc {
+    section[class='mkt-standard-single-image-specs-detail'] {
+      .content {
+        display: grid;
+        grid-template-columns: 300px 1fr 250px;
+        column-gap: 12px;
+      }
+      .tech-specs {
+        border-left: 1px solid #ddd;
+        padding-left: 12px;
+      }
+    }
+  }
+}

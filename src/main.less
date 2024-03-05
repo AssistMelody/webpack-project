@@ -1,0 +1,45 @@
+// 设置a+ 在独立站商品中的查看效果
+app-product-desc .desc-content #mkt-aplus {
+  overflow-x: auto !important;
+}
+
+#mkt-aplus {
+  margin: 0 auto;
+  overflow-x: hidden;
+  visibility: hidden;
+  max-width: 100vw;
+  h3,
+  h4 {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    font-weight: bold;
+    *:empty {
+      display: none;
+    }
+  }
+  section {
+    margin-bottom: 12px;
+    .text_underline {
+      text-decoration: underline;
+    }
+    img[width] {
+      width: unset !important;
+    }
+  }
+  &.pc {
+    visibility: unset;
+    section {
+      img[width] {
+        width: unset !important;
+      }
+    }
+  }
+  &.mobile {
+    visibility: unset;
+    section {
+      img {
+        width: 100% !important;
+      }
+    }
+  }
+}

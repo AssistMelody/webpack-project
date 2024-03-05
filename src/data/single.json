@@ -1,0 +1,14 @@
+{
+  "contentDocument": {
+    "name": "Content document example",
+    "contentType": "EMC",
+    "contentSubType": null,
+    "locale": "en-US",
+    "contentModuleList": [
+      {
+        "contentModuleType": "FOUR_IMAGE_TEXT_QUADRANT",
+        "standardFourImageTextQuadrant": null
+      }
+    ]
+  }
+}
