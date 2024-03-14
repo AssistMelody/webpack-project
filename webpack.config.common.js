@@ -3,6 +3,7 @@ const path = require('path');
 module.exports = {
   entry: {
     'mkt-aplus': './src/invoke-aplus.js',
+    comment: './src/comment/index.ts',
   },
   optimization: {
     splitChunks: {
@@ -27,6 +28,11 @@ module.exports = {
           },
         ],
       },
+      {
+        test: /\.ts?$/,
+        use: 'ts-loader',
+        exclude: /node_modules/,
+      },
     ],
   },
   devServer: {
@@ -35,6 +41,7 @@ module.exports = {
   },
   plugins: [],
   resolve: {
+    extensions: ['.tsx', '.ts', '.js'],
     alias: {
       '@': path.resolve(__dirname, 'src/'),
     },

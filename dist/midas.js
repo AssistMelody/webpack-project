@@ -1,2 +1,0 @@
-window.midascontext={env:{bootstrapJsUrl:"https://dtc-assets-stg.s3.cn-northwest-1.amazonaws.com.cn/aplus/mkt-aplus.js?v=1709273494340"}},function(t){const s=document.createElement("script");s.type="text/javascript",s.async=!0,s.src=t,document.getElementsByTagName("head")[0].appendChild(s)}(midascontext.env.bootstrapJsUrl);
-//# sourceMappingURL=midas.js.map

@@ -4,6 +4,7 @@ const DotEnvPlugin = require('dotenv-webpack');
 const webpack = require('webpack');
 const { merge } = require('webpack-merge');
 const path = require('path');
+const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = merge(commonConfig, {
   mode: 'production',
@@ -29,6 +30,17 @@ module.exports = merge(commonConfig, {
     ],
   },
   devtool: 'source-map',
+  optimization: {
+    splitChunks: {
+      cacheGroups: {
+        comment: {
+          test: /[\\/]node_modules[\\/]/,
+          name: 'runtime',
+          chunks: 'all',
+        },
+      },
+    },
+  },
   plugins: [
     new webpack.DefinePlugin({
       BUILD_TIME: Date.now(),
@@ -37,5 +49,10 @@ module.exports = merge(commonConfig, {
       path: path.resolve(__dirname, `./env/.${process.env.CURRENT_ENV}.env`),
     }),
     new MiniCssExtractPlugin(),
+    new HtmlWebpackPlugin({
+      template: 'template/comment.html',
+      filename: 'comment.html',
+      chunks: ['comment'],
+    }),
   ],
 });

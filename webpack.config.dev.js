@@ -30,12 +30,7 @@ module.exports = () => {
         entry: path.join(process.cwd(), 'src', 'main.hbs'),
         output: path.join(process.cwd(), '.build', '[name].html'),
         getPartialId: (filePath) => {
-          const basename = path
-            .dirname(filePath)
-            .split('/')
-            .pop()
-            .toLocaleUpperCase()
-            .replace(/-/g, '_');
+          const basename = path.dirname(filePath).split('/').pop().toLocaleUpperCase().replace(/-/g, '_');
           if (basename === 'BASE_TEXT') {
             return 'text';
           }
@@ -46,7 +41,7 @@ module.exports = () => {
             return obj[type];
           },
           isRight: (value) => {
-            return value == 'RIGHT';
+            return value === 'RIGHT';
           },
         },
         partials: [
@@ -59,6 +54,11 @@ module.exports = () => {
         template: '.build/main.html',
         filename: 'index.html',
         chunks: ['mkt-aplus'],
+      }),
+      new HtmlWebpackPlugin({
+        template: 'template/comment.html',
+        filename: 'comment.html',
+        chunks: ['comment'],
       }),
     ],
   });
