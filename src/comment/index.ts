@@ -1,4 +1,4 @@
-import { LitElement, html } from 'lit';
+import { LitElement, html, css, CSSResultGroup } from 'lit';
 import { customElement, property } from 'lit/decorators.js';
 
 @customElement('my-element')
@@ -13,4 +13,13 @@ export class MyElement extends LitElement {
   private _increment(e: Event) {
     this.count++;
   }
+  static styles?: CSSResultGroup | undefined = css`
+    :host {
+      display: grid;
+      justify-content: center;
+    }
+    p {
+      color: red;
+    }
+  `;
 }
